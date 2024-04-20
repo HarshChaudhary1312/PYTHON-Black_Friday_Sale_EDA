@@ -47,14 +47,15 @@ Some of the analysis questions addressed in this project include:
 - Stay_In_Current_City_Years column analysis
 - Gender distribution among residents in each city
 - Relationship between city category and marital status
+- etc.
 
 ## How to Use
 
 To run the EDA notebook:
 
 1. Clone this repository to your local machine.
-2. Install the required Python libraries mentioned in the `requirements.txt` file.
-3. Open `black_friday_sales_eda.ipynb` in Jupyter Notebook or JupyterLab.
+2. Install the required Python libraries mentioned : Numpy, Pandas, Seaborn
+3. Open `BlackFridaySale_EDA.ipynb` in Jupyter Notebook or JupyterLab.
 4. Follow the instructions in the notebook to execute the cells and explore the dataset.
 
 ## Contribution
