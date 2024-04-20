@@ -1,4 +1,4 @@
-# Black Friday Sales Dataset Exploratory Data Analysis (EDA)
+# Black Friday Sales Exploratory Data Analysis (EDA)
 
 ## Overview
 
