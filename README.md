@@ -20,8 +20,8 @@ The following Python libraries were used for data analysis and visualization:
 
 The project is structured as follows:
 
-- `black_friday_sales_eda.ipynb`: Jupyter Notebook containing the EDA process.
-- `black_friday_sales.csv`: The dataset used for analysis.
+- `BlackFridaySale_EDA.ipynb`: Jupyter Notebook containing the EDA process.
+- `BlackFriday_Data.csv`: The dataset used for analysis.
 - `README.md`: This file, providing an overview of the project and instructions for usage.
 
 ## Exploratory Data Analysis
