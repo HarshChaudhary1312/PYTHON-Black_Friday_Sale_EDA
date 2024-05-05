@@ -1,5 +1,5 @@
 # Black Friday Sales Exploratory Data Analysis (EDA)
-<img src="https://ordorite.com/wp-content/uploads/2019/11/Black-friday-sales_image_blog-Nov-2019.jpg" height="300">
+<img src="https://ordorite.com/wp-content/uploads/2019/11/Black-friday-sales_image_blog-Nov-2019.jpg" height="350">
 
 ## Overview
 
