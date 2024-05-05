@@ -1,5 +1,5 @@
 # Black Friday Sales Exploratory Data Analysis (EDA)
-<img src="https://image.similarpng.com/very-thumbnail/2020/10/Illustration-of-black-friday-sale-banner-on--PNG.png">
+<img src="https://img.freepik.com/free-vector/abstract-black-friday-sale-poster_1017-1146.jpg" height="200">
 
 ## Overview
 
